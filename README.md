@@ -30,3 +30,28 @@ No external initial-condition files are required for reproducibility.
 For transparency and inspection only, representative initial velocity fields
 at t = 0 are provided for selected runs. These snapshots are not required to
 reproduce the results reported in the paper.
+
+## Large Atlas Bundles (N=256)
+
+Due to GitHub repository file-size limits, the full diagnostic atlas bundles
+for N=256 simulations are provided via GitHub Releases.
+
+All N=256 atlas bundles associated with the paper are available in:
+
+## Large Atlas Bundles (N=256)
+
+Due to GitHub repository file-size limits, the full diagnostic atlas bundles
+for N=256 simulations are provided via GitHub Releases.
+
+All N=256 atlas bundles associated with the paper are available in:
+
+- **GitHub Release: `atlas-256-v1`**  
+  https://github.com/The-mirror-walker/Corridor-Diagnostics-and-Predictive-Small-Ball-Entry-in-3D-Incompressible-Navier-Stokes-Data-Atlases/releases/tag/atlas-256-v1
+
+Each archive corresponds to a single initial-condition family and contains
+the complete solver diagnostics required to reproduce the reported figures
+and tables, including progress logs, invariant summaries, spectral diagnostics,
+corridor/onset reports, and configuration metadata.
+
+The corresponding N=128 atlases and all analysis code are available directly
+in this repository.
