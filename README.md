@@ -20,10 +20,11 @@ Each atlas is provided as a compressed archive and corresponds to a single
 initial-condition family and integration length. Filenames follow the
 convention:
 
+```
 <IC>.<steps>.N128.ATLAS.zip
 <IC>.W.F.N128.window.spread.zip
 <IC>.N128.IC_snap_shots.zip
-
+```
 
 where:
 - `<IC>` denotes the initial-condition family (ABC, TG, TG2X, Dyadic Tower,
